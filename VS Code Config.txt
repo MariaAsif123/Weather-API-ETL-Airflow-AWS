@@ -1,0 +1,4 @@
+Host WeatherAPIAirflowProjecttt
+    HostName 3.15.184.246
+    User ubuntu
+    IdentityFile C:\Users\abc\Downloads\weather-api-airflow-ec2-project.pem
