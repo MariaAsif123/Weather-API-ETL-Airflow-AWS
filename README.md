@@ -7,5 +7,4 @@ In this project, I have built and automated an ETL pipeline using Apache Airflow
 - OpenWeatherMap API
 - Python
 
-![Weater=API-ETL-Airflow-Aws](C:\Users\abc\Pictures\etl.jpg)
 ![WhatsApp Image 2024-10-20 at 23 44 52_9dc88beb](https://github.com/user-attachments/assets/d1b0a7c6-fa0f-4837-ba16-1f8b9427b2b2)
